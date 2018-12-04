@@ -1,0 +1,4 @@
+baseURL = "http://blog.thinkside.eu/"
+languageCode = "en-gb"
+title = "ThinkSide"
+theme = "hermit"
